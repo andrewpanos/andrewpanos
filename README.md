@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Andrew Panos, and I am a second-year student studying computer science at Northeastern University! My private GitHub repositories containing my past and current projects can be made public upon request.
+
 
 <!--
 **andrewpanos/andrewpanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
