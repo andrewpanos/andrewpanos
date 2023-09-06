@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Andrew Panos, and I am a second-year student studying computer science at Northeastern University! My private GitHub repositories containing my past and current projects can be made public upon request.
+My name is Andrew Panos, and I am a third-year student studying computer science at Northeastern University! My private GitHub repositories containing my past and current projects can be made public upon request.
 
 
 <!--
